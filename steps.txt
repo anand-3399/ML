@@ -13,7 +13,7 @@ step 7: copy "add" code
 step 8: right click calculator.java -> new -> other -> web service -> web service -> client type-max -> publish web service -> next
 
 
-*****Socket programming steps:Sender/Receiver********************************
+*****Socket programming steps:Sender/Receiver->Wrapper to connect two applications with different architectures Exp 6********************************
 ->start eclipse->new java web project
 ->install apache 7.0
 ->runtime 2.5
@@ -59,7 +59,7 @@ System.out.println("Message received successfully");
 ->enter
 
 
-*****File writing steps: Middleware******************************************************
+*****File writing steps: Use Middleware to implement connectors Exp 5********************************************************
 ->start eclipse->new java project
 ->create package "pkg_file"
 ->create class "fileWrite"
@@ -98,7 +98,7 @@ public class fileWrite {
 ->check file content
 
 
-*****JAVA RMI Steps:***********************************************************************************
+*****JAVA RMI Steps: Integrate Software components using middleware Exp 4*****************************
 ->create java project
 ->create package pkg_RMI
 ->create interface RMI_interface
